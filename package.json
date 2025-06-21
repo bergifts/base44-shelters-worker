@@ -1,0 +1,12 @@
+{
+  "name": "base44-shelters-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node fetchShelters.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
